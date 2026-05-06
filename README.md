@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:0f766e,100:f59e0b&text=cuNuo&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=计算机视觉、视觉语言模型与遥感智能&descAlignY=58&descSize=18" alt="cuNuo profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:dbeafe,50:e0e7ff,100:f3e8ff&text=cuNuo&fontColor=334155&fontSize=58&fontAlignY=38&desc=计算机视觉、视觉语言模型与遥感智能&descAlignY=58&descSize=18" alt="cuNuo profile banner" />
 
 # 你好，我是 cuNuo
 
