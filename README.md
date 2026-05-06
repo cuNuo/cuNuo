@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:0f766e,100:f59e0b&text=cunyu277&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=把%20commit%20养成一条会巡逻的小蛇&descAlignY=58&descSize=18" alt="cunyu277 profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:0f766e,100:f59e0b&text=cunyu277&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=构建、记录、迭代&descAlignY=58&descSize=18" alt="cunyu277 profile banner" />
 
 # 你好，我是 cunyu277
 
-把灵感写成代码，把提交记录喂给一条贪吃蛇。
+把灵感写成代码，把复杂问题拆成可以长期迭代的工具。
 
 [![GitHub](https://img.shields.io/badge/GitHub-cunyu277-111827?style=for-the-badge&logo=github)](https://github.com/cunyu277)
 ![Profile Views](https://komarev.com/ghpvc/?username=cunyu277&style=for-the-badge&color=0f766e)
@@ -15,7 +15,7 @@
 
 - 正在把想法拆成可运行、可维护、可复盘的小项目。
 - 偏爱清晰的结构、可验证的结果和能长期迭代的工具。
-- 这张主页会跟着提交记录一起生长，下面的小蛇每天自动巡逻一次。
+- 这张主页会跟着项目、笔记和提交记录一起生长。
 
 ## 工具箱
 
@@ -32,12 +32,12 @@
 
 </div>
 
-## Commit Arcade
+## 贡献轨迹
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cunyu277/cunyu277/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cunyu277/cunyu277/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/cunyu277/cunyu277/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cunyu277/cunyu277/output/github-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cunyu277/cunyu277/output/github-contribution.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/cunyu277/cunyu277/output/github-contribution.svg" />
 </picture>
 
 ## 留一块给未来
@@ -50,6 +50,6 @@
 
 <div align="center">
 
-<sub>Generated with GitHub Actions. Fed by commits.</sub>
+<sub>Generated with GitHub Actions. Updated by commits.</sub>
 
 </div>
