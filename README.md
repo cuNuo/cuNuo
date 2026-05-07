@@ -40,9 +40,3 @@
 ## 持续更新
 
 这里会继续沉淀研究笔记、工程实践、自动化工具和可复现的数据处理经验。
-
-<div align="center">
-
-`<sub>`Generated with GitHub Actions. Updated by commits.`</sub>`
-
-</div>
